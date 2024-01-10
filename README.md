@@ -1,4 +1,4 @@
-### Olá! Aqui é onde compartilho os códigos de estudos/cursos que fiz ou estou fazendo.
+### Olá! Este é o lugar onde compartilho códigos de estudos/cursos que fiz ou estou fazendo.
 
 ##
 
